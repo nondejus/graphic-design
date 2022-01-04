@@ -1,2 +1,0 @@
-# graphics-design
-raspi400
